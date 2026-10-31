@@ -16,7 +16,7 @@ Estudo Engenharia de Software na Universidade Católica de Salvador(UCSAL), e at
 
 - **[Ericaura](https://github.com/otavioxavier/ericaura-backend)** — sistema para clínicas acompanharem o paciente do check-in ao pagamento, passando por anamnese e termo de consentimento. Backend em Spring Boot com PostgreSQL e frontend em Angular.
 - **[Encurtador de URLs](https://github.com/otavioxavier/url-shortner)** — primeiro projeto em Go. A URL vira um código curto em base62, o Redis guarda o que é pedido toda hora e o PostgreSQL fica com o resto. Sobe tudo com Docker Compose.
-- **[Portfólio](https://otavio-portifolio.netlify.app/)** — o site em que isso aparece com mais calma, feito em Angular, TypeScript e Tailwind.
+- **[Estuda Mais](https://github.com/otavioxavier/estuda-main)** — website para ajudar estudantes criando resumos e questões para aprendizado rápido.
 
 ## Tecnologias e temas
 
